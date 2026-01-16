@@ -11,4 +11,4 @@ References used:-
 
 ## Live Demo
 
-- [Live Demo]: (https://karimuhammad.github.io/Git-Task1/)
+- (https://karimuhammad.github.io/Git-Task1/)
